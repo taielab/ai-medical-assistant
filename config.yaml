@@ -1,0 +1,7 @@
+openai:
+  api_key: 
+  base_url: https://yunwu.ai/v1
+
+deepseek:
+  api_key: 
+  base_url: https://api.deepseek.com/v1

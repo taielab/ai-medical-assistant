@@ -1,0 +1,7 @@
+PyQt6==6.2.0
+sqlite3
+matplotlib==3.4.3
+reportlab==3.6.11
+python-docx==0.8.11
+openai==1.10.0
+requests==2.25.1
